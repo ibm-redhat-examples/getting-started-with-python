@@ -15,3 +15,6 @@ Now, we can install Python 3:
  
 ```
 This will take a minute or two.
+
+For more information checkout 
+- https://docs.python-guide.org/starting/install3/osx/
