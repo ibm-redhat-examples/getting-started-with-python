@@ -18,3 +18,7 @@ This will take a minute or two.
 
 For more information checkout 
 - https://docs.python-guide.org/starting/install3/osx/
+
+
+# Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
